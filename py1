@@ -1,1 +1,4 @@
-cxv
+	length = float(input("what is the lenth:"))
+	width = float(input("what is the width:"))
+	Area = length * width
+	print(f"Area of the rectangle is: {Area}cm²")
