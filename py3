@@ -1,3 +1,5 @@
+# find minimum of the variables
+
 
  x=99
  y=20

@@ -1,3 +1,6 @@
+# weight converter
+
+
 weight = float(input("enter your weight: "))
 unit = input("Kg or Pounds? (enter K or L): ")
 if unit == "K":

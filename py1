@@ -1,3 +1,5 @@
+# find area of triangle.
+
 	length = float(input("what is the lenth:"))
 	width = float(input("what is the width:"))
 	Area = length * width
