@@ -1,0 +1,9 @@
+# interest calculator
+
+P = 100000
+T = 5
+R = 2
+
+I = (P*T*R)/100
+
+print(f"simple interest for {P} rupees in {T} years is : {I}")
