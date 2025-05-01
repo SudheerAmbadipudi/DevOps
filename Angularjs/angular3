@@ -4,4 +4,3 @@ app.service('MathService', function() {
     return a + b;
   };
 });
-

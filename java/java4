@@ -5,4 +5,3 @@ public class LargestNumber {
         System.out.println("Largest number is: " + largest);
     }
 }
-

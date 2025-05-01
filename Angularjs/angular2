@@ -6,4 +6,3 @@ app.controller('HomeController', function($scope) {
 app.controller('AboutController', function($scope) {
   $scope.message = "Learn more About Us here.";
 });
-
