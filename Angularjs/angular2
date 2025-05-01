@@ -1,0 +1,9 @@
+// controllers.js
+app.controller('HomeController', function($scope) {
+  $scope.message = "Welcome to the Home Page!";
+});
+
+app.controller('AboutController', function($scope) {
+  $scope.message = "Learn more About Us here.";
+});
+
